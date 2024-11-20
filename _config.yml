@@ -21,9 +21,9 @@ title      : Security and People at Mines
 email      : kelsey.fulton@mines.edu #this is also the email contact forms will go to
 description: "Agency Bootstrap theme converted to a Jekyll theme, plus new features: Google Analytics, Markdown support, custom pages, and more!"
 author     : Kelsey Fulton
-logo:     assets\img\logo.png
-   #path: assets\img\logo.png
-  #height: 60 #height in px, defaults to 52px
+logo:     
+  path: assets\img\logo.png
+  height: 60 #height in px, defaults to 52px
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
