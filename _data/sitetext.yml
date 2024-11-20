@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Security and People at Mines (SPAM)
-    text: SPAM researches security and privacy with a focus on people. Specifically, we explore how people build, interact with, and understand systems. 
+    desc: SPAM researches security and privacy with a focus on people. Specifically, we explore how people build, interact with, and understand systems. 
     button: Research
     buttonlink: "#research"
 
@@ -20,7 +20,7 @@ en: &DEFAULT_EN
     title: "Research"
     section: research
     list:
-      - title: "E-Commerce"
+      - title: "Secure development"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
